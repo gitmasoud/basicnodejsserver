@@ -1,0 +1,25 @@
+{
+  "name": "basicnodejsserver",
+  "version": "1.0.0",
+  "description": "basic nodejs server",
+  "main": "indexnde.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitmasoud/basicnodejsserver.git"
+  },
+  "keywords": [
+    "nodejserver",
+    "basic",
+    "nodejs",
+    "server"
+  ],
+  "author": "s a masoud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitmasoud/basicnodejsserver/issues"
+  },
+  "homepage": "https://github.com/gitmasoud/basicnodejsserver#readme"
+}
